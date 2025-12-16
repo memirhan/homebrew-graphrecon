@@ -4,7 +4,7 @@ class Graphrecon < Formula
   desc "Fast async GraphQL scanner"
   homepage "https://github.com/memirhan/GraphRecon"
   url "https://github.com/memirhan/GraphRecon/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "BURAYA_KENDI_SHA256"
+  sha256 "42ff539eeffd60e2f35fc153dfda029a84bf31b9c73dcfd2a3bd8868bf003068"
   license "MIT"
 
   depends_on "python@3.11"
