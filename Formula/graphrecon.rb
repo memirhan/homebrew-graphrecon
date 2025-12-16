@@ -11,7 +11,7 @@ class Graphrecon < Formula
 
   resource "aiohttp" do
     url "https://files.pythonhosted.org/packages/source/a/aiohttp/aiohttp-3.9.5.tar.gz"
-    sha256 "debb3d69e4c3c5fdf9d64fbaeb0f4e7b66b70c2e8f9b2c6b7fbe0cdd8c1f4a47"
+    sha256 "edea7d15772ceeb29db4aff55e482d4bcfb6ae160ce144f2682de02f6d693551"
   end
 
   def install
